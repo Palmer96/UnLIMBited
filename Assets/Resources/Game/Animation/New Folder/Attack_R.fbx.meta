@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: a8fde03c9bb65b245b8140ef175b0fd6
+timeCreated: 1477260427
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: back
+    100004: bodyGEO
+    100006: L_Ankle
+    100008: L_Arm
+    100010: L_Ball
+    100012: L_Elbow
+    100014: L_Index
+    100016: L_Index2
+    100018: L_Index3
+    100020: L_Knee
+    100022: L_Leg
+    100024: L_Pinky
+    100026: L_Pinky2
+    100028: L_Pinky3
+    100030: L_Ring
+    100032: L_Ring2
+    100034: L_Ring3
+    100036: L_Thumb
+    100038: L_Thumb2
+    100040: L_Thumb3
+    100042: L_ToeTip
+    100044: L_Wrist
+    100046: R_Ankle
+    100048: R_Arm
+    100050: R_Ball
+    100052: R_Elbow
+    100054: R_Index
+    100056: R_Index2
+    100058: R_Index3
+    100060: R_Knee
+    100062: R_Leg
+    100064: R_Pinky
+    100066: R_Pinky2
+    100068: R_Pinky3
+    100070: R_Ring
+    100072: R_Ring2
+    100074: R_Ring3
+    100076: R_Thumb
+    100078: R_Thumb2
+    100080: R_Thumb3
+    100082: R_ToeTip
+    100084: R_Wrist
+    100086: Root
+    100088: Spine1
+    100090: Spine2
+    100092: Spine3
+    100094: Spine4
+    100096: Spine5
+    100098: Spine6
+    100100: Spine7
+    100102: Spine8
+    100104: zombieGEO
+    400000: //RootNode
+    400002: back
+    400004: bodyGEO
+    400006: L_Ankle
+    400008: L_Arm
+    400010: L_Ball
+    400012: L_Elbow
+    400014: L_Index
+    400016: L_Index2
+    400018: L_Index3
+    400020: L_Knee
+    400022: L_Leg
+    400024: L_Pinky
+    400026: L_Pinky2
+    400028: L_Pinky3
+    400030: L_Ring
+    400032: L_Ring2
+    400034: L_Ring3
+    400036: L_Thumb
+    400038: L_Thumb2
+    400040: L_Thumb3
+    400042: L_ToeTip
+    400044: L_Wrist
+    400046: R_Ankle
+    400048: R_Arm
+    400050: R_Ball
+    400052: R_Elbow
+    400054: R_Index
+    400056: R_Index2
+    400058: R_Index3
+    400060: R_Knee
+    400062: R_Leg
+    400064: R_Pinky
+    400066: R_Pinky2
+    400068: R_Pinky3
+    400070: R_Ring
+    400072: R_Ring2
+    400074: R_Ring3
+    400076: R_Thumb
+    400078: R_Thumb2
+    400080: R_Thumb3
+    400082: R_ToeTip
+    400084: R_Wrist
+    400086: Root
+    400088: Spine1
+    400090: Spine2
+    400092: Spine3
+    400094: Spine4
+    400096: Spine5
+    400098: Spine6
+    400100: Spine7
+    400102: Spine8
+    400104: zombieGEO
+    4300000: bodyGEO
+    7400000: Attack_Right
+    9500000: //RootNode
+    13700000: bodyGEO
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack_Right
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Spine1
+        weight: 1
+      - path: Root/Spine1/L_Leg
+        weight: 1
+      - path: Root/Spine1/L_Leg/L_Knee
+        weight: 1
+      - path: Root/Spine1/L_Leg/L_Knee/L_Ankle
+        weight: 1
+      - path: Root/Spine1/L_Leg/L_Knee/L_Ankle/L_Ball
+        weight: 1
+      - path: Root/Spine1/L_Leg/L_Knee/L_Ankle/L_Ball/L_ToeTip
+        weight: 1
+      - path: Root/Spine1/R_Leg
+        weight: 1
+      - path: Root/Spine1/R_Leg/R_Knee
+        weight: 1
+      - path: Root/Spine1/R_Leg/R_Knee/R_Ankle
+        weight: 1
+      - path: Root/Spine1/R_Leg/R_Knee/R_Ankle/R_Ball
+        weight: 1
+      - path: Root/Spine1/R_Leg/R_Knee/R_Ankle/R_Ball/R_ToeTip
+        weight: 1
+      - path: Root/Spine1/Spine2
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow/L_Wrist
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow/L_Wrist/L_Index
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow/L_Wrist/L_Index/L_Index2
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow/L_Wrist/L_Index/L_Index2/L_Index3
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow/L_Wrist/L_Pinky
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow/L_Wrist/L_Pinky/L_Pinky2
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow/L_Wrist/L_Pinky/L_Pinky2/L_Pinky3
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow/L_Wrist/L_Ring
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow/L_Wrist/L_Ring/L_Ring2
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow/L_Wrist/L_Ring/L_Ring2/L_Ring3
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow/L_Wrist/L_Thumb
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow/L_Wrist/L_Thumb/L_Thumb2
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/L_Arm/L_Elbow/L_Wrist/L_Thumb/L_Thumb2/L_Thumb3
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow/R_Wrist
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow/R_Wrist/R_Index
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow/R_Wrist/R_Index/R_Index2
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow/R_Wrist/R_Index/R_Index2/R_Index3
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow/R_Wrist/R_Pinky
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow/R_Wrist/R_Pinky/R_Pinky2
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow/R_Wrist/R_Pinky/R_Pinky2/R_Pinky3
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow/R_Wrist/R_Ring
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow/R_Wrist/R_Ring/R_Ring2
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow/R_Wrist/R_Ring/R_Ring2/R_Ring3
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow/R_Wrist/R_Thumb
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow/R_Wrist/R_Thumb/R_Thumb2
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/R_Arm/R_Elbow/R_Wrist/R_Thumb/R_Thumb2/R_Thumb3
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/Spine5
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/Spine5/Spine6
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7
+        weight: 1
+      - path: Root/Spine1/Spine2/Spine3/Spine4/Spine5/Spine6/Spine7/Spine8
+        weight: 1
+      - path: zombieGEO
+        weight: 1
+      - path: zombieGEO/bodyGEO
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: bf3422b1d1f5e5846926b8fccd0c1047
+timeCreated: 1470105540
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: grillBaseGEO
+    100002: grillLeg1GEO
+    100004: grillLeg1GEO1
+    100006: grillLeg1GEO2
+    100008: grillLeg1GEO3
+    100010: //RootNode
+    100012: grillTopGEO
+    100014: sausageGEO
+    100016: spatulaGEO
+    100018: steakGEO
+    400000: grillBaseGEO
+    400002: grillLeg1GEO
+    400004: grillLeg1GEO1
+    400006: grillLeg1GEO2
+    400008: grillLeg1GEO3
+    400010: //RootNode
+    400012: grillTopGEO
+    400014: sausageGEO
+    400016: spatulaGEO
+    400018: steakGEO
+    2300000: grillBaseGEO
+    2300002: grillLeg1GEO
+    2300004: grillLeg1GEO1
+    2300006: grillLeg1GEO2
+    2300008: grillLeg1GEO3
+    2300010: grillTopGEO
+    2300012: sausageGEO
+    2300014: spatulaGEO
+    2300016: steakGEO
+    3300000: grillBaseGEO
+    3300002: grillLeg1GEO
+    3300004: grillLeg1GEO1
+    3300006: grillLeg1GEO2
+    3300008: grillLeg1GEO3
+    3300010: grillTopGEO
+    3300012: sausageGEO
+    3300014: spatulaGEO
+    3300016: steakGEO
+    4300000: spatulaGEO
+    4300002: steakGEO
+    4300004: sausageGEO
+    4300006: grillLeg1GEO
+    4300008: grillTopGEO
+    4300010: grillBaseGEO
+    4300012: grillLeg1GEO1
+    4300014: grillLeg1GEO2
+    4300016: grillLeg1GEO3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

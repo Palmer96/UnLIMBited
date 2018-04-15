@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 38f45af6684d66c429911fe2da93c27a
+timeCreated: 1472389381
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface10
+    100004: polySurface4
+    100006: polySurface5
+    100008: polySurface6
+    100010: polySurface6 1
+    100012: polySurface7
+    100014: polySurface8
+    100016: polySurface9
+    100018: polySurface9 1
+    100020: R_Arm
+    100022: R_Elbow
+    100024: R_Index
+    100026: R_Index2
+    100028: R_Index3
+    100030: R_Pinky
+    100032: R_Pinky2
+    100034: R_Pinky3
+    100036: R_Ring
+    100038: R_Ring2
+    100040: R_Ring3
+    100042: R_Thumb
+    100044: R_Thumb2
+    100046: R_Thumb3
+    100048: R_Wrist
+    100050: rArmGEO1
+    100052: transform1
+    100054: transform2
+    100056: transform3
+    100058: transform4
+    100060: transform5
+    100062: transform6
+    100064: transform7
+    100066: transform8
+    100068: transform9
+    100070: zombieGEO
+    400000: //RootNode
+    400002: polySurface10
+    400004: polySurface4
+    400006: polySurface5
+    400008: polySurface6
+    400010: polySurface6 1
+    400012: polySurface7
+    400014: polySurface8
+    400016: polySurface9
+    400018: polySurface9 1
+    400020: R_Arm
+    400022: R_Elbow
+    400024: R_Index
+    400026: R_Index2
+    400028: R_Index3
+    400030: R_Pinky
+    400032: R_Pinky2
+    400034: R_Pinky3
+    400036: R_Ring
+    400038: R_Ring2
+    400040: R_Ring3
+    400042: R_Thumb
+    400044: R_Thumb2
+    400046: R_Thumb3
+    400048: R_Wrist
+    400050: rArmGEO1
+    400052: transform1
+    400054: transform2
+    400056: transform3
+    400058: transform4
+    400060: transform5
+    400062: transform6
+    400064: transform7
+    400066: transform8
+    400068: transform9
+    400070: zombieGEO
+    4300000: polySurface9
+    9500000: //RootNode
+    13700000: polySurface9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
